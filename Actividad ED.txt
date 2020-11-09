@@ -1,0 +1,11 @@
+1. Además de Git, ¿que otros sistemas de control de versiones existen?
+
+2. En Git, ¿para qué sirve el comando git config?
+
+3. En Git, ¿para qué sirve el comando git init?
+
+4. En Git, ¿para qué sirve el comando git clone?
+
+5. En Git, ¿para qué sirve el comando git status?
+
+6. En Git, ¿para qué sirve el comando git add?
